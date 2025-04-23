@@ -12,6 +12,7 @@ A corporate-style React front-end page that integrates with Single Sign-On (SSO)
 - React app shows/hides content based on role
 
 ## Folder Structure
+```
 securecorp-sso-app/
 │
 ├── frontend/                 # React App
@@ -32,6 +33,7 @@ securecorp-sso-app/
 │
 ├── README.md
 └── .gitignore
+```
 
 ## Authors
 - [@JustinTurner](https://github.com/Turner-Justin)
